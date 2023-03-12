@@ -2,45 +2,154 @@
 
 I'm **Ebed meleck**! A passionate Full Stack Web developer with a focus on user experience. 
 My mission is to build products that users love to use as well as help clients expand their business. 
-And I get to do it alongside an amazing [team](https://mosano.eu/) of talented people in one of the most vibrant countries in the world. 
-In my spare time, you can find me writing articles on [DEV](https://dev.to/franciscomendes10866).
 
-![gopher dancing](./dancing-gopher.gif)
+<h2 align="center">👨🏻‍💻 About Me</h2>
+<ul>
+
+<li> I’m passionate about <strong>Web</strong> & <strong>Machine Learning</strong></li>
+<li> 🔭 I’m currently learning <strong>ML</strong> and <strong>Ecosystem DHIS2</strong></li>
+<li> 🌱 I’m currently experimenting the web ecosystem</li>
+<li> 👯 I’m looking to collaborate on solving problems with software</li>
+<li> 💬 Ask me about anything web-related, I might have a hint</li>
+<li>📫 How to reach me: <a href="mailto:ebedmeleckmakoso@gmail.com">ebedmeleckmakoso@gmail.com</a></li>
+
+<li> ⚡ <em>"*build your future in technology*"</em></li>
+</ul>
 
 <h3>My Tech Stack 🍭</h3>
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=000" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white" />
-  <img alt="ReactQuery" src="https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=reacttable&logoColor=fff" />
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=fff" />
-</p>
 
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=fff" />
-  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=fff" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=fff" />
-  <img alt="MobX" src="https://img.shields.io/badge/-MobX-FF7102?style=flat-square&logo=mobx&logoColor=fff" />
-  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=fff" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=fff" />
-</p>
+<table align="center">
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+    </div>
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+      <a href="#sass">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/sass-icon.svg" width="48" height="48" alt="sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+</tr>
+
+<tr>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>    
+    <td align="center" width="96">
+      <a href="#sass">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/sass-icon.svg" width="48" height="48" alt="sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <br>redis
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+      <a href="#ts">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+        <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+     <td align="center" width="96">
+      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+      <br>Express
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+ </tr>
+<tr>
+     <td align="center" width="96">
+      <a href="#ubuntu" >
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+      <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>VS Code
+    </td>
+     <td align="center"  width="96">
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+      <br>React js
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+      <br>Postgress
+    </td>
+         <td align="center"  width="96">
+     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+      <br>Node js
+    </td>
+
+  </tr>
+
+</table>
 
 <h3>Statistics and Projects 🥖</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Ebed-meleck&show_icons=true&theme=radical&line_height=33)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebed-meleck&hide=css,java,ruby,starlark,html,objective-c,php,scss,Dockerfile,python,shell,makefile&theme=radical&line_height=27)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Ebed-meleck&repo=gridbit&theme=radical)](https://github.com/Ebed-meleck/gridbit)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Ebed-meleckrepo=identer&theme=radical)](https://github.com/FranciscoMendes10866/identer)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebed-meleck&hide=css,java,ruby,starlark,objective-c,scss,Dockerfile,makefile&theme=radical&line_height=27)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Ebed-meleck&repo=TravelDrc&theme=radical)](https://github.com/Ebed-meleck/TravelDrc)
 
 
 <h3>When the error is unknown 🍌</h3>
