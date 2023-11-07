@@ -7,7 +7,6 @@ My mission is to build products that users love to use as well as help clients e
 <ul>
 
 <li> I’m passionate about <strong>Web</strong> & <strong>Machine Learning</strong></li>
-<li> 🔭 I’m currently learning <strong>ML</strong> and <strong>Ecosystem DHIS2</strong></li>
 <li> 🌱 I’m currently experimenting the web ecosystem</li>
 <li> 👯 I’m looking to collaborate on solving problems with software</li>
 <li> 💬 Ask me about anything web-related, I might have a hint</li>
