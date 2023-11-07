@@ -1,6 +1,6 @@
 <h2>Hello! 👋 Nice to see you 😊</h2>
 
-I'm **Ebed meleck**! A passionate Full Stack Web developer with a focus on user experience. 
+I'm **Ebed meleck**! A passionate Full Stack developer with a focus on user experience. 
 My mission is to build products that users love to use as well as help clients expand their business. 
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
